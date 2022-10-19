@@ -32,3 +32,31 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+#
+
+#
+
+# Next.js Crash Course
+
+This is a project from the [YouTube crash course](https://www.youtube.com/watch?v=mTz0GXj8NN0). It includes the fundamentals of Next.js such as Server-side rendering(SSR) and Static-site generators(SSG), routing, APIs, data fetching and others.
+
+## Usage
+
+### Install dependencies
+
+```
+npm install
+```
+
+### Run dev server (http://localhost:3000)
+
+```
+npm run dev
+```
+
+### To build for production
+
+```
+npm run build
+```
